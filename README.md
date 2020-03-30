@@ -1,0 +1,1 @@
+NW.js'i indirdikten sonra `path/to/nw nw .` çalıştırıyoruz.
