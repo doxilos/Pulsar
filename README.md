@@ -1,1 +1,1 @@
-NW.js'i indirdikten sonra `path/to/nw nw .` çalıştırıyoruz.
+NW.js'i indirdikten sonra projenin içinde`path/to/nw nw .` çalıştırıyoruz.
